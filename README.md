@@ -7,7 +7,7 @@ A collection of useful resources related to plasma physics, material science and
 ## Build locally
 If you'd like to build the site locally, first clone the repository:
 ```sh
-git clone git@github.com:baiway/fusion-cdt-community-reading-list.git
+git clone git@github.com:Fusion-CDT/fusion-cdt-community-reading-list.git
 ```
 
 Then change to the project directory:
@@ -15,18 +15,15 @@ Then change to the project directory:
 cd fusion-cdt-community-reading-list
 ```
 
-Install `uv` (if you haven't already):
-```sh
-# macOS and Linux
-curl -LsSf https://astral.sh/uv/install.sh | sh
-
-# Windows
-powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
-```
-
-Install dependencies and activate virtual environment
+Install dependencies. If you have [`uv`](https://docs.astral.sh/uv/) installed:
 ```sh
 uv sync && source .venv/bin/activate
+```
+
+Otherwise, using `pip`:
+```sh
+python -m venv .venv && source .venv/bin/activate
+pip install .
 ```
 
 Build site
