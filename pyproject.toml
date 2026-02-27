@@ -13,7 +13,7 @@ dependencies = [
 ]
 
 [tool.hatch.build.targets.wheel]
-include = ["scripts/bibtex_reference.py"]
+include = ["scripts/doi_reference.py"]
 
 [tool.hatch.build.targets.wheel.sources]
 "scripts" = ""

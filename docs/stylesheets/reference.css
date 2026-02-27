@@ -3,16 +3,20 @@
 .ref-authors {
   font-size: 0.95rem;
   color: var(--md-default-fg-color--light);
-  line-height: 1.6;
+  line-height: 1;
+  margin-top: -1.0rem;
 }
 
 .ref-journal {
-  font-size: 0.9rem;
+  font-size: 0.75rem;
   color: var(--md-default-fg-color--light);
+  margin-top: -0.6rem;
+  margin-bottom: -1.0rem;
 }
 
 .ref-doi {
-  font-size: 0.9rem;
+  font-size: 0.75rem;
+  color: var(--md-default-fg-color--light);
 }
 
 .ref-doi a {

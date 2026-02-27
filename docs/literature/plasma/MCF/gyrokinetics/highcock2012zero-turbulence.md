@@ -3,13 +3,7 @@ tags:
   - MCF
   - gyrokinetics
   - GS2
+doi: 10.48550/arXiv.1207.4419
 ---
 
-# The Zero Turbulence Manifold in Fusion Plasmas
-
-[https://doi.org/10.48550/arXiv.1207.4419](https://doi.org/10.48550/arXiv.1207.4419)
-
-Also include here:
-
-- tl;dr
-- Related references (as links?)
+Really useful paper for understanding GS2.

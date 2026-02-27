@@ -78,7 +78,7 @@ extra_javascript = [
 [project.extra.tags]
 gyrokinetics = "gyrokinetics"
 
-[project.markdown_extensions.bibtex_reference]
+[project.markdown_extensions.doi_reference]
 
 [project.markdown_extensions.pymdownx.arithmatex]
 generic = true
