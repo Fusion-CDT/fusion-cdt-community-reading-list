@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Edit an existing entry
+    url: https://fusion-cdt.github.io/fusion-cdt-community-reading-list/
+    about: Use the edit button on any page to propose a correction or improvement via a pull request.
