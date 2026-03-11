@@ -27,10 +27,10 @@ site_author = "<your name here>"
 # The site_url is the canonical URL for your site. When building online
 # documentation you should set this.
 # Read more: https://zensical.org/docs/setup/basics/#site_url
-site_url = "https://fusion-cdt.github.io/fusion-cdt-community-reading-list/"
+site_url = "https://fusion-cdt.github.io/community-reading-list/"
 
 # The repo_url enables the edit button and repository link in the header.
-repo_url = "https://github.com/Fusion-CDT/fusion-cdt-community-reading-list"
+repo_url = "https://github.com/Fusion-CDT/community-reading-list"
 edit_uri = "edit/main/docs"
 
 # The copyright notice appears in the page footer and can contain an HTML
